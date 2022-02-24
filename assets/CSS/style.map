@@ -1,0 +1,12 @@
+{
+	"version": 3,
+	"file": "style.css",
+	"sources": [
+		"../SASS/style.scss"
+	],
+	"sourcesContent": [
+		"$background-grey: #3E3E3E;\r\n$pink:#FFD8D8 ;\r\n$text-color: #FEFEFE;\r\n\r\n\r\n//General Styling\r\nbody{\r\n    font-family: 'Zen Kaku Gothic Antique', sans-serif;\r\n    color: $text-color;\r\n    //background-color: rgb(2, 2, 2);\r\n}\r\n\r\nsection{\r\n    text-align: center;\r\n    padding: 20px 0 20px;\r\n}\r\n\r\n.uil{\r\n    font-size: 50px;\r\n    color: $pink;\r\n}\r\n\r\n.heading{\r\n    font-family: 'Roboto', sans-serif;\r\n}\r\n//Header\r\n\r\n//Intro\r\n.intro,.footer{\r\n    background-color: #3E3E3E;\r\n    //transform: rotate(5deg);\r\n}\r\n\r\n//Skills\r\n\r\n//Logos\r\n\r\n//Contact\r\n\r\n//Footer\r\n\r\n\r\n\r\n"
+	],
+	"names": [],
+	"mappings": ";AAMA,AAAA,IAAI,CAAA;EACA,WAAW,EAAE,qCAAqC;EAClD,KAAK,EANI,OAAO;CAQnB;;;AAED,AAAA,OAAO,CAAA;EACH,UAAU,EAAE,MAAM;EAClB,OAAO,EAAE,WAAW;CACvB;;;AAED,AAAA,IAAI,CAAA;EACA,SAAS,EAAE,IAAI;EACf,KAAK,EAlBH,OAAO;CAmBZ;;;AAED,AAAA,QAAQ,CAAA;EACJ,WAAW,EAAE,oBAAoB;CACpC;;;AAID,AAAA,MAAM,EAAC,OAAO,CAAA;EACV,gBAAgB,EAAE,OAAO;CAE5B"
+}

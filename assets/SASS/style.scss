@@ -1,0 +1,113 @@
+$background-grey: #3E3E3E;
+$pink:#FFD8D8 ;
+$text-color: #FEFEFE;
+
+
+//General Styling
+body{
+    font-family: 'Zen Kaku Gothic Antique', sans-serif;
+    color: $text-color;
+    background-color: rgb(2, 2, 2);
+}
+
+section{
+    text-align: center;
+    padding: 50px 0 50px;
+}
+
+
+.heading{
+    font-family: 'Roboto', sans-serif;
+    padding: 30px;
+}
+//Header
+
+//Home-hero
+.home-hero{
+    font-family: 'Playfair Display Bold', serif;
+    font-size: 3rem;
+    width: 80%;
+    margin: auto;
+    padding-bottom: 15px;
+}
+
+//Intro
+.intro,.footer,.logos{
+    background-color: rgba(77, 75, 75, 0.1);
+    //transform: rotate(2deg);
+}
+
+.intro-text{
+    padding: 20px;
+}
+
+//Skills
+/*.skills-text{
+    float: right;
+}*/
+
+.h3{
+    display: inline;
+}
+.skills-uil{
+    font-size: 50px;
+    color: $background-grey;
+
+}
+
+.bgpink{
+    width: 100px;
+    height: 100px;
+    border-radius: 0 5% 0;
+    border: 1px solid $text-color;
+    background-color: $pink;
+    margin: auto;
+}
+
+.skills-text{
+    padding: 50px 0 50px;
+}
+
+//Logos
+.logo-1{
+    font-family: 'Playfair Display', serif;
+    font-size: 3rem;
+}
+
+.logo-2{
+    font-family: 'Lobster', cursive;
+    font-size: 3.5rem;
+}
+
+.logo-3{
+    font-family: 'Staatliches', cursive;
+    font-size: 3rem;
+}
+
+.logo-4{
+    font-family: 'Syne Tactile', cursive;
+    font-size: 4rem;
+}
+
+
+
+
+//Contact
+
+.logo-uil{
+    font-size: 30px;
+    color: $pink;
+    
+}
+ 
+.contact-text{
+    padding: 50px;
+}
+
+
+//Footer
+
+.footer{
+    padding: 50px;
+}
+
